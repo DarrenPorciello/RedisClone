@@ -1,4 +1,4 @@
-# cedis
+# Redis Clone
 # KeyValueStore
 
 The KeyValueStore project is a simple key-value storage system that allows users to set, retrieve, update, and delete key-value pairs. It utilizes a Binary Search Tree (BST) data structure for efficient storage and retrieval of data.
